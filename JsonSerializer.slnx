@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JsonSerializer/JsonSerializer.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/JsonSerializer.Tests/JsonSerializer.Tests.csproj" />
+  </Folder>
+</Solution>
